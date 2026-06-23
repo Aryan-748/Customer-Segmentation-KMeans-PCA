@@ -53,7 +53,7 @@ Features Used:
 
 ### Customer Segmentation
 
-![Customer Segmentation](Screenshots/Customer_Segmentation_using_k_means.png)
+![Customer Segmentation](Screenshots/Customer_segmentation_using_k_means.png)
 
 ### Cluster Summary
 
